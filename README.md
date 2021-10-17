@@ -1,5 +1,5 @@
-# 100-Days-Of-Python
-Documenting my 100 Days of Python journey beginning from scratch alongside building projects 😍
+# 100-Days-Of-Code
+Documenting my 100 Days of Code journey beginning from scratch alongside building projects 😍
 
 ## Goals:
 - Solve atleast 1 HackerRank Problem a day 🧠
@@ -12,8 +12,8 @@ Documenting my 100 Days of Python journey beginning from scratch alongside build
 
 | Day | Project                               | Description                                                                           | Language                      | Status |
 | --- | ------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------- | ------ |
-| 1   | Band Name Generator                | Generate a band name by getting input from the user and concatenating it                                                       | Python                    | Done ✔ |
-| 2   | Tip Calculator                | Calculate tip to pay                                                       | Python                    | Done ✔ |
+| 1   | Band Name Generator                | Generate a band name by getting input from the user and concatenating it                                                       | Python                    |  ✔ |
+| 2   | Tip Calculator                | Calculate tip to pay                                                       | Python                    |  ✔ |
 
 ## References:
 1. [100 Days of Code - The Complete Python Pro Bootcamp - Udemy](https://www.udemy.com/course/100-days-of-code/)
