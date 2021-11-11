@@ -12,8 +12,10 @@ Documenting my 100 Days of Code journey beginning from scratch alongside buildin
 
 | Day | Project                               | Description                                                                           | Language                      | Status |
 | --- | ------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------- | ------ |
-| 1   | Band Name Generator                | Generate a band name by getting input from the user and concatenating it                                                       | Python                    |  ✔ |
-| 2   | Tip Calculator                | Calculate tip to pay                                                       | Python                    |  ✔ |
+| 1   | Band Name Generator                   | Generate a band name                                                                  | Python                        |  ✔    |
+| 2   | Tip Calculator                        | Calculate tip to pay                                                                  | Python                        |  ✔    | 
+| 3   | Treasure Island                       | Use conditionals and find the treasure                                                | Python                        |  ✔    |
+
 
 ## References:
 1. [100 Days of Code - The Complete Python Pro Bootcamp - Udemy](https://www.udemy.com/course/100-days-of-code/)
